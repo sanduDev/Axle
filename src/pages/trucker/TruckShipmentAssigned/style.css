@@ -1,0 +1,23 @@
+.dotted-lines{
+  padding-left: 5px;
+}
+.mecca-padding {
+    padding-top: 2px;
+    padding-bottom: 22px;
+}
+.time-details{
+  width: 100%;
+  float: left;
+}
+
+.shipments_loc_assigned{
+  padding-left: 0px !important;
+}
+.truck-driver-button-margin{
+  margin-top: 10px !important;
+}
+.user-name-padding{
+  padding-left: 0px !important;
+  text-align: center;
+    width: 150px;
+}

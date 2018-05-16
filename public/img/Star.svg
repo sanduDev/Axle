@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="13.0124998 20.523228 4.97033265 24.7512455 6.5062499 15.7961607 0 9.45413451 8.99141623 8.14760525 13.0124998 0 17.0335834 8.14760525 26.0249996 9.45413451 19.5187497 15.7961607 21.054667 24.7512455"></polygon>
+    </defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account_Past-Shipments_Details_Submit-Rating_Completetd" transform="translate(-1104.000000, -264.000000)">
+            <g id="Rate-Driver" transform="translate(1080.000000, 136.000000)">
+                <g id="Stars" transform="translate(24.000000, 128.000000)">
+                    <g id="Star">
+                        <use fill="#A5DB03" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#A5DB03" stroke-width="1" d="M20.3906015,23.8372377 L18.9815094,15.6216008 L24.950519,9.80325441 L16.7015506,8.60460913 L13.0124998,1.12977573 L9.32344899,8.60460913 L1.07448057,9.80325441 L7.04349019,15.6216008 L5.63439816,23.8372377 L13.0124998,19.9583401 L20.3906015,23.8372377 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

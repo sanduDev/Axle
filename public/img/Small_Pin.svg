@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="17px" viewBox="0 0 10 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Carrier-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shipments-Assigned_Hover" transform="translate(-588.000000, -442.000000)" fill="#A6DB03">
+            <g id="Shipments" transform="translate(360.000000, 184.000000)">
+                <g id="Load" transform="translate(0.000000, 176.000000)">
+                    <g id="Pickup/Dropoff" transform="translate(227.000000, 19.000000)">
+                        <g id="Icons" transform="translate(0.000000, 3.000000)">
+                            <path d="M1,65.3427331 C1,68.1942018 6,76.25 6,76.25 C6,76.25 11,68.7300395 11,65.3427331 C11,61.9554268 8.76154102,60 6,60 C3.23845898,60 1,62.4912645 1,65.3427331 Z M6,68 C4.34264305,68 3,66.6573569 3,65 C3,63.3426431 4.34264305,62 6,62 C7.65735695,62 9,63.3426431 9,65 C9,66.6573569 7.65735695,68 6,68" id="Small-Pin"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

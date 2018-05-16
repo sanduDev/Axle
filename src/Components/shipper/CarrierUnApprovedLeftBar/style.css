@@ -1,0 +1,23 @@
+.sidebar-left.carrier-unapproved {
+	max-width: 264px;
+	width: 20%; 
+}
+
+@media screen and (max-width: 991px) {
+  .sidebar-left.carrier-unapproved {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+.col-xs-6.header {
+	padding: 0;
+}
+
+.col-xs-6.header > a > span {
+	width: 100%;
+}
+
+.row.carrier_sidebar_carrier_form >.col-xs-12.col-sm-12 {
+	padding: 0;
+}

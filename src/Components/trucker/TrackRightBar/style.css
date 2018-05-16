@@ -1,0 +1,30 @@
+.leftpadding{
+  padding-left: 5px;
+}
+.customdotted-lines{
+  padding-top: 2px;padding-left: 5px
+}
+.smallPin{
+  padding-left: 0.5px
+}
+.shipment-detail-scroll{
+  overflow: scroll;
+}
+#progress {
+ width: 500px;   
+ border: 1px solid black;
+ position: relative;
+ padding: 3px;
+}
+
+#percent {
+ position: absolute;   
+ left: 10%;
+    top: 25%;
+    font-size: 16px;
+}
+
+#bar {
+ height: 47px;
+ background-color: #A5DB03;
+}

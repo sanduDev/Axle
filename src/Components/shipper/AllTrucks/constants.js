@@ -1,0 +1,1 @@
+export const GET_ALLTRUCKS = 'GET_ALLTRUCKS';

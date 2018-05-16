@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Clock</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-a-Shipment_Pickup" transform="translate(-1003.000000, -995.000000)" stroke="#9B9B9B">
+            <g id="Pickup-Appointment" transform="translate(672.000000, 831.000000)">
+                <g id="Select-a-time" transform="translate(0.000000, 131.000000)">
+                    <g id="Clock" transform="translate(331.000000, 33.000000)">
+                        <path d="M18.7739905,9.72619048 C18.7739905,14.7231905 14.7233714,18.7738095 9.72637143,18.7738095 C4.72937143,18.7738095 0.678752381,14.7231905 0.678752381,9.72619048 C0.678752381,4.72919048 4.72937143,0.678571429 9.72637143,0.678571429 C14.7233714,0.678571429 18.7739905,4.72919048 18.7739905,9.72619048 Z" id="Stroke-1"></path>
+                        <polyline id="Stroke-3" points="13.4072143 9.72619048 9.72664286 9.72619048 9.72664286 5.47742857"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

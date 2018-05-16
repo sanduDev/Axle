@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="23px" viewBox="0 0 34 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Email_Green_Contact</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account_Contact" transform="translate(-573.000000, -371.000000)" stroke="#A5DB03">
+            <g id="Email" transform="translate(553.000000, 352.000000)">
+                <g id="Email_Green_Contact" transform="translate(20.000000, 19.000000)">
+                    <rect id="Email" x="0.5" y="0.5" width="33" height="22" rx="2.62080031"></rect>
+                    <polyline id="arrow" stroke-linecap="round" points="6.53846154 7.66666667 17 12.7777778 27.4615385 7.66666667"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

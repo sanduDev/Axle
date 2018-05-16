@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Pen</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Carriers_Approved" transform="translate(-1252.000000, -212.000000)" fill="#9B9B9B">
+            <g id="Drivers" transform="translate(360.000000, 184.000000)">
+                <g id="Driver" transform="translate(1.000000, 16.000000)">
+                    <path d="M903.211443,12 L907,15.7904411 L897.680898,25.1121263 L893.888067,21.3206166 L903.211443,12 Z M891,28 L892.332674,22.8769736 L896.1223,26.6684833 L891,28 Z" id="Pen"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

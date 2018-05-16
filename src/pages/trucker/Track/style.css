@@ -1,0 +1,19 @@
+#Trackmap{
+  /*width:1000px;*/
+  height:600px;
+  background-color: #808080;
+}
+.hideMarker{
+  display: none;
+}
+.track-info-msg{
+  line-height: 1.5;
+    margin-top: 200px !important;
+}
+.track-user-details{
+  cursor: pointer;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

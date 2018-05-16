@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Trash</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Carriers_Approved" transform="translate(-1302.000000, -213.000000)" fill="#9B9B9B">
+            <g id="Drivers" transform="translate(360.000000, 184.000000)">
+                <g id="Driver" transform="translate(1.000000, 16.000000)">
+                    <path d="M941.306647,17.4323908 L952.692526,17.4323908 L951.328726,27.2931856 C951.328726,27.6792573 950.987777,28.0005 950.546185,28.0005 L947.0001,28.0005 L943.454015,28.0005 C943.011397,28.0005 942.670447,27.6792573 942.670447,27.2931856 L941.306647,17.4323908 Z M951.874554,14.0600202 C952.488675,14.0600202 953.0001,14.284503 953.0001,14.5738149 L953.0001,15.6981642 C953.0001,15.9874761 952.488675,15.922647 951.874554,15.922647 L942.124619,15.922647 C941.511525,15.922647 941.0001,15.9874761 941.0001,15.6981642 L941.0001,14.5738149 C941.0001,14.284503 941.511525,14.0600202 942.124619,14.0600202 L944.374683,13.8674681 L945.193168,13.0005 L948.704336,13.0005 L949.556711,13.8674681 L951.874554,14.0600202 Z" id="Trash"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

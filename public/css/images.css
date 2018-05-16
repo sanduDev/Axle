@@ -1,0 +1,8 @@
+input[type="search"] {
+  background: rgba(0, 0, 0, 0) url("../images/Search Glass.svg") no-repeat scroll 0 0;
+  background-position: 95% 12px;
+}
+select {
+  background: rgba(0, 0, 0, 0) url("../images/Arrow_Down.svg") no-repeat scroll 0 0;
+  background-position: 95% 16px;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Calendar</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-a-Shipment_Pickup" transform="translate(-1001.000000, -920.000000)">
+            <g id="Pickup-Appointment" transform="translate(672.000000, 831.000000)">
+                <g id="Select-a-Date" transform="translate(0.000000, 59.000000)">
+                    <g id="Calendar" transform="translate(329.000000, 30.000000)">
+                        <path d="M18.8399707,2.5 L2.41643415,2.5 C1.57278997,2.5 0.884043902,3.17784019 0.884043902,4 L0.884043902,20 C0.884043902,20.8221598 1.57278997,21.5 2.41643415,21.5 L18.8399707,21.5 C19.6834795,21.5 20.3718488,20.8222951 20.3718488,20 L20.3718488,4 C20.3718488,3.17770493 19.6834795,2.5 18.8399707,2.5 Z" id="Stroke" stroke="#9B9B9B"></path>
+                        <polygon id="Fill-3" fill="#9B9B9B" points="5.50609756 11 9.50609756 11 9.50609756 7 5.50609756 7"></polygon>
+                        <polygon id="Fill-5" fill="#9B9B9B" points="11.652439 11 15.652439 11 15.652439 7 11.652439 7"></polygon>
+                        <polygon id="Fill-6" fill="#9B9B9B" points="5.50609756 17 9.50609756 17 9.50609756 13 5.50609756 13"></polygon>
+                        <polygon id="Fill-7" fill="#9B9B9B" points="11.652439 17 15.652439 17 15.652439 13 11.652439 13"></polygon>
+                        <path d="M15,0 L15,2" id="Stroke-9" stroke="#9B9B9B"></path>
+                        <path d="M6,0 L6,2" id="Stroke-8" stroke="#9B9B9B"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

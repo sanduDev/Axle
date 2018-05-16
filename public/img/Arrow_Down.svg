@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow_Down</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-a-Shipment_Pickup_Completed" transform="translate(-815.000000, -713.000000)" stroke="#000000">
+            <g id="Pickup-Location" transform="translate(672.000000, 183.000000)">
+                <g id="State" transform="translate(0.000000, 491.000000)">
+                    <polyline id="Arrow_Down" transform="translate(148.000000, 42.000000) rotate(-360.000000) translate(-148.000000, -42.000000) " points="143 40 148 44 153 40.0089477"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

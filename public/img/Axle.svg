@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="16px" viewBox="0 0 63 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Carrier-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shipments-Unassigned_Pick-a-Driver" transform="translate(-24.000000, -100.000000)">
+            <g id="Nav" transform="translate(0.000000, 80.000000)">
+                <g id="Axle" transform="translate(24.000000, 20.000000)">
+                    <polygon id="EEE" fill="#000000" points="52 0 52 16 63 16 63 12.4018641 55.8690095 12.4018641 55.8690095 9.69131777 62.8427125 9.69131777 62.8427125 6.092982 55.8690095 6.092982 55.8690095 3.59833577 63 3.59833577 63 0"></polygon>
+                    <polygon id="LLL" fill="#000000" points="39 16 39 0 42.9090496 0 42.9090496 12.4018641 49 12.4018641 49 16"></polygon>
+                    <path d="M24.7077353,7.95531595 L18,16 L23.5846259,16 L27.5,11.3041676 L31.4153741,16 L37,16 L30.2922647,7.95531595 L36.9253885,0 L31.3409547,0 L27.5,4.60651254 L23.6590453,0 L18.0746115,0 L24.7077353,7.95531595 Z" id="XXX" fill="#A6DB03"></path>
+                    <path d="M5.93451249,0 L0,15.9996002 L0,16 L4.61058695,16 L5.39087348,13.6970651 L11.6091265,13.6970651 L12.389413,16 L17,16 L11.0652905,0 L5.93451249,0 Z M8.51182252,4.07791396 L10.4980064,10.0989292 L6.5019936,10.0989292 L8.51182252,4.07791396 Z" id="AAA" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

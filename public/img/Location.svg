@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="13px" viewBox="0 0 11 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shipments_Ongoing" transform="translate(-404.000000, -286.000000)" fill="#A6DB03">
+            <g id="Shipments" transform="translate(360.000000, 184.000000)">
+                <g id="Load">
+                    <g id="Track" transform="translate(24.000000, 88.000000)">
+                        <polygon id="Location" points="20 21.4525862 25.4864198 21.6209698 27.1978025 27 31 14"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

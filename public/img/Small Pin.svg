@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="17px" viewBox="0 0 11 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45 (43471) - http://www.bohemiancoding.com/sketch -->
+    <title>Small Pin</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Shipper-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-a-Shipment_Confirmation" transform="translate(-547.000000, -372.000000)" fill="#A5DB03">
+            <g id="Load-Confirmation" transform="translate(528.000000, 184.000000)">
+                <g id="Pickup/Dropoff" transform="translate(18.000000, 75.000000)">
+                    <g id="Icons" transform="translate(0.000000, 3.000000)">
+                        <path d="M1,115.589321 C1,118.572396 6.50000012,127 6.50000012,127 C6.50000012,127 12.0000002,119.132964 12.0000002,115.589321 C12.0000002,112.045677 9.5376953,110 6.50000012,110 C3.46230494,110 1,112.606246 1,115.589321 Z M6.50000012,118.369231 C4.67690744,118.369231 3.20000005,116.96462 3.20000005,115.230769 C3.20000005,113.496919 4.67690744,112.092308 6.50000012,112.092308 C8.3230928,112.092308 9.80000019,113.496919 9.80000019,115.230769 C9.80000019,116.96462 8.3230928,118.369231 6.50000012,118.369231" id="Small-Pin"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

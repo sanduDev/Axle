@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2px" height="40px" viewBox="0 0 2 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Dotted Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Carrier-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="1,5">
+        <g id="Shipments-Assigned_Hover" transform="translate(-592.000000, -398.000000)" stroke="#9B9B9B" stroke-width="2">
+            <g id="Shipments" transform="translate(360.000000, 184.000000)">
+                <g id="Load" transform="translate(0.000000, 176.000000)">
+                    <g id="Pickup/Dropoff" transform="translate(227.000000, 19.000000)">
+                        <g id="Icons" transform="translate(0.000000, 3.000000)">
+                            <path d="M6,17.3877551 L6,54.6445438" id="Dotted-Line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
